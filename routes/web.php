@@ -16,15 +16,10 @@ use Illuminate\Support\Facades\Route;
 
 //autenticacion
 
-Auth::routes();
-
-
+Auth::routes(['verify' => true]);
 
 // portada
 Route::get('/', 'WelcomeController@index')->name('index');
-
-
-Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
  
