@@ -1,4 +1,4 @@
--- # Laranuncios
+# Laranuncios
 
 _Proyecto realizado en laravel 6.1.0  realizado en la práctica final del curso de Laravel, se trata de una web de anuncios de segunda mano donde se puede gestionar los anuncios y darse de alta como usuario_
 
