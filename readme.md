@@ -12,10 +12,10 @@ _Windows_
 ### Instalación 🔧
 
 Abra la consola y directorio raiz del proyecto y ejecute:
-```composer install```
-```php artisan key:generate```
-```php artisan migrate```
-``` php artisan db:seed```
+- ```composer install```
+- ```php artisan key:generate```
+- ```php artisan migrate```
+- ``` php artisan db:seed```
 
 ## Configuración ⚙️
 
